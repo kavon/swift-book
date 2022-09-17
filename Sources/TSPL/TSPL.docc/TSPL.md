@@ -55,6 +55,12 @@
 - <doc:Patterns>
 - <doc:GenericParametersAndArguments>
 
+### Concurrency Specification
+
+- <doc:AboutTheConcurrencySpec>
+- <doc:TypeSystem>
+- <doc:ExecutionSemantics>
+
 ### Revision History
 
 - <doc:RevisionHistory>
